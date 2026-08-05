@@ -69,3 +69,4 @@ The **Netflix Power BI Dashboard** is an interactive Business Intelligence proje
 ## ⭐ Support
 
 If you found this project useful or inspiring, please consider giving this repository a **⭐ Star**. Your support is greatly appreciated!
+## Minor update for Pull Request
